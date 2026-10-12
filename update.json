@@ -1,7 +1,7 @@
 {
-    "versionCode":  5,
-    "versionName":  "1.2.2",
-    "apkUrl":  "https://github.com/wpguidexpro-hub/NEXUS-Mobile-Updates/releases/download/v1.2.2/NEXUS-Mobile-v1.2.2.apk",
-    "changelog":  "Fixed default HTTPS update-manifest endpoint; automatic update checks configured by default.",
-    "publishedAt":  "2026-10-12T08:00:29.4304902Z"
+    "versionCode":  6,
+    "versionName":  "1.2.3",
+    "apkUrl":  "https://github.com/wpguidexpro-hub/NEXUS-Mobile-Updates/releases/download/v1.2.3/NEXUS-Mobile-v1.2.3.apk",
+    "changelog":  "Uses GitHub API update manifest to avoid stale raw-file cache; update checks enabled by default.",
+    "publishedAt":  "2026-10-12T08:03:19.1396725Z"
 }
