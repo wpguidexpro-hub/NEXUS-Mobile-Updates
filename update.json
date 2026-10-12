@@ -1,7 +1,7 @@
-﻿{
-    "apkUrl":  "https://github.com/wpguidexpro-hub/NEXUS-Mobile-Updates/releases/download/v1.2.0/NEXUS-Mobile-v1.2.0.apk",
-    "changelog":  "NEXUS Search + DuckDuckGo search updates; browser improvements.",
-    "versionCode":  3,
-    "versionName":  "1.2.0",
-    "publishedAt":  "2026-10-12T07:55:55.9326341Z"
+{
+    "versionCode":  4,
+    "versionName":  "1.2.1",
+    "apkUrl":  "https://github.com/wpguidexpro-hub/NEXUS-Mobile-Updates/releases/download/v1.2.1/NEXUS-Mobile-v1.2.1.apk",
+    "changelog":  "Automatic update checks configured by default; NEXUS + DuckDuckGo search improvements.",
+    "publishedAt":  "2026-10-12T07:58:42.2943707Z"
 }
