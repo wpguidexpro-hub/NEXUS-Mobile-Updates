@@ -1,7 +1,8 @@
 {
-    "versionCode":  7,
-    "versionName":  "1.3.0",
-    "apkUrl":  "https://github.com/wpguidexpro-hub/NEXUS-Mobile-Updates/releases/download/v1.3.0/NEXUS-Mobile-v1.3.0.apk",
-    "changelog":  "Chrome-inspired light UI and unified NEXUS web search. Google, Bing and DuckDuckGo results are combined into one NEXUS page; unavailable providers are safely skipped.",
-    "publishedAt":  "2026-10-12T09:01:42.6862582Z"
+    "versionCode":  13,
+    "versionName":  "1.3.6",
+    "apkUrl":  "https://github.com/wpguidexpro-hub/NEXUS-Mobile-Updates/releases/download/v1.3.6/NEXUS-Mobile-v1.3.6.apk",
+    "changelog":  "Chrome-style top toolbar, no bottom action bar, NEXUS-only home shortcuts, About links to the official NEXUS GitHub Pages site, and shared public search.",
+    "sha256":  "25b499ddbe4e23bcb13fc9f989c2b47da7fb72acd1499a9926c0e74c690f4967",
+    "size":  957368
 }
