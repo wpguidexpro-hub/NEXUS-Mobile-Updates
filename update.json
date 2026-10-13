@@ -1,8 +1,8 @@
 {
-    "versionCode":  13,
-    "versionName":  "1.3.6",
-    "apkUrl":  "https://github.com/wpguidexpro-hub/NEXUS-Mobile-Updates/releases/download/v1.3.6/NEXUS-Mobile-v1.3.6.apk",
-    "changelog":  "Chrome-style top toolbar, no bottom action bar, NEXUS-only home shortcuts, About links to the official NEXUS GitHub Pages site, and shared public search.",
-    "sha256":  "25b499ddbe4e23bcb13fc9f989c2b47da7fb72acd1499a9926c0e74c690f4967",
-    "size":  957368
+    "versionCode":  17,
+    "versionName":  "1.4.0",
+    "apkUrl":  "https://wpguidexpro-hub.github.io/NEXUS-Browser-Releases/NEXUS-Mobile-v1.4.0.apk",
+    "changelog":  "Chrome-style top toolbar only (no bottom action bar); NEXUS-only shortcuts; About includes the official GitHub repository and website; update manifest synchronized.",
+    "sha256":  "75bb4c8ac275c6517688f913778f7ca4e96cc74c3e0b0f19d6ff7e7d670cee9d",
+    "size":  969836
 }
